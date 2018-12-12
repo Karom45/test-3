@@ -1,5 +1,7 @@
 print("Another file")
 
-a = input("Inout info")
+a = input("Input info")
 
 b = input()
+
+c = 24
