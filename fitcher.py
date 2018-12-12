@@ -1,6 +1,6 @@
 print("Another file")
 
-a = input("Input info")
+a = input("Input info!!!!!!!!!!!!!!!!!!")
 
 b = input()
 
