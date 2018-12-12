@@ -2,6 +2,7 @@ print("Another file")
 
 a = input("Input info!!!!!!!!!!!!!!!!!!23")
 
-b = input(!!!)
+b = input(1488)
 
-c = 24
+
+c = 2445
